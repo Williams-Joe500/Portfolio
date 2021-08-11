@@ -1,0 +1,102 @@
+ .joe{
+    padding-bottom: 20px;
+    background-color: dodgerblue;
+    margin-left:5px;
+    margin-right: 70px;
+} 
+.lists{
+    padding-left:60px;
+}
+.para{
+    margin-top: -10px;
+}
+.john{
+    margin-top:-10px;
+}
+.ben{
+    margin-top: -15px;
+}
+.hobby{
+    margin-top: -15px;
+}
+.first{
+    color: rgba(36, 100, 153, 0.849) ;
+}
+.second{
+    color: rgba(36, 100, 153, 0.849) ;
+}
+.third{
+    color: rgba(36, 100, 153, 0.849) ;
+}
+.fourth{
+    color: rgba(36, 100, 153, 0.849) ;
+}
+#fifth{
+    color: rgba(36, 100, 153, 0.849) ;
+}
+b{
+    font-size: 30px;
+}
+em{
+    padding-left: 2px;
+    text-align: left;
+} 
+#bold{
+    justify-content: left; margin-left: -80px;
+}
+.load{
+    padding-right: 20px;
+    text-align: left;
+
+}
+.cat{
+    padding-right: 16px;
+    text-align: left;
+    margin-left: -19px;
+}
+.container{
+    border: 2px solid black;
+    width: 500px;
+    height: 1490px;
+    padding-left: 170px;
+    margin-left: 530px;
+    padding-right: 100px;
+    margin-right: 100px;
+}
+.iron{
+    padding-right: 251px;
+    padding-left: 517px;
+    margin-left: -170px;
+    margin-right: 20px;
+    padding-bottom: 20px;
+    background-color: dodgerblue;
+
+}
+body {
+    display: block;
+    margin: 8px;
+    margin-top: 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+}
+.img-eye{
+    width: 90px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    padding-left: -100px;
+    padding-right: 1200px;
+    margin-top: 90px;
+    
+  }
+.img-eye-2{
+      width: 90px;
+      position: absolute;
+    top: 0px;
+    right: 0px;
+    padding-right: 640px;
+    margin-top: 90px;
+    border-radius: 40px;
+    
+  }
